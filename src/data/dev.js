@@ -108,6 +108,12 @@ const dev = [
     image: 'https://gdurl.com/Jscl',
     url: 'https://theconsolelog.com/',
   },
+  {
+    title: 'Accidental Tech Podcast',
+    description: 'A tech podcast we accidentally created while trying to do a car show.',
+    image: 'https://gdurl.com/G6G3',
+    url: 'http://atp.fm/',
+  },
 ];
 
 export default dev;
